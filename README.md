@@ -17,5 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tradevamp&show_icons=true&locale=en" alt="tradevamp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tradevamp&" alt="tradevamp" /></p>
-![dc](https://github.com/tradevamp/tradevamp/assets/131290717/39bb0ec1-6776-4243-822e-790415599817)
 
+
+![dc](https://github.com/tradevamp/tradevamp/assets/131290717/8626345f-558a-4d46-8b91-cf39fa16100b)
