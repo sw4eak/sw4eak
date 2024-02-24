@@ -1,3 +1,5 @@
+![dc](https://github.com/tradevamp/tradevamp/assets/131290717/4dabbb03-96c5-4f78-872b-fdbda3c2002c)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tradevamp&label=Profile%20views&color=0e75b6&style=flat" alt="tradevamp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tradevamp" alt="tradevamp" /></a> </p>
