@@ -16,4 +16,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tradevamp&show_icons=true&locale=en" alt="tradevamp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tradevamp&" alt="tradevamp" /></p>
-(https://discord-readme-badge.vercel.app/api?id=<1167148280984117308>)
+(https://discord-readme-badge.vercel.app/api?id=1167148280984117308)
