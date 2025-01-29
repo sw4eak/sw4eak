@@ -19,4 +19,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tradevamp&" alt="tradevamp" /></p>
 
 
-![dc](https://github.com/user-attachments/assets/d6458fbb-bf90-4451-8ced-ba98d5942ddf)
+![dc]!(https://github.com/user-attachments/assets/5b7b9f41-a570-48b1-a0b5-371a06dcb27a)
+()
